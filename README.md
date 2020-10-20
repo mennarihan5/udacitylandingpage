@@ -5,7 +5,7 @@
 ## Info:
 It's a landing page project for Udacity & Itida Nanodegree program.
 
-##Languages:
+## Languages:
 - HTML
 - CSS
 - JavaScript
